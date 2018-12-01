@@ -45,20 +45,20 @@ newPackage(
       )
 
 export {
-  nextSubset,
-  prevSubset,
-  Size,
-  nextPartition,
-  prevPartition,
-  nextPermutation,
-  prevPermutation,
-  YoungDiagram,
-  Filling,
-  shape,
-  nextStandardTableau,
-  prevStandardTableau,
-  collectIterations,
-  CollectInitializer
+  "nextSubset",
+  "prevSubset",
+  "Size",
+  "nextPartition",
+  "prevPartition",
+  "nextPermutation",
+  "prevPermutation",
+  "YoungDiagram",
+  "Filling",
+  "shape",
+  "nextStandardTableau",
+  "prevStandardTableau",
+  "collectIterations",
+  "CollectInitializer"
   }
 
 
