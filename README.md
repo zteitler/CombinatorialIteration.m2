@@ -23,7 +23,10 @@ reversing the order of traversal of the 'next' functions.
 
 
 ### References
-[NW]
-: Nijenhuis, Albert; Wilf, Herbert S.
+<dl>
+<dt>[NW]</dt>
+<dd>Nijenhuis, Albert; Wilf, Herbert S.
     *Combinatorial algorithms*.
     Second edition. 1978.
+</dd>
+</dl>
